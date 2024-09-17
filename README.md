@@ -2,11 +2,11 @@
 
 ## 🤙 About Me
 
-- 🌈 I'm a technology enthusiast and passionate developer with a love for building amazing software to make my imagination come true.<br>
+- 🌈 I love being a developer and I always had, specially when it comes to creating games. <br>
 
-- 🔗 I enjoy working on both front-end and back-end development and have experience with various programming languages and frameworks.<br>
+- 🔗 I'm always curious and eager to learn new and challenging stuff! <br>
 
-- 🤯 I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
+- 😌 I am fascinated with technology and the fact that I'm learning how to be part of that makes me really happy!
 
 ## 💻 Technologies
 
