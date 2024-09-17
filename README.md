@@ -1,7 +1,6 @@
-# Hello, world! I'm Rafael Brasil! 👋😉
-### Passionate Developer and Technology Enthusiast Building Amazing Software.
+# Hello! I'm Rafael Brasil! 👋🦦
 
-## 🚀 About Me
+## 🤙 About Me
 
 - 🌈 I'm a technology enthusiast and passionate developer with a love for building amazing software to make my imagination come true.<br>
 
@@ -32,27 +31,33 @@
 - ### Version Control: <br>
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔭 Projects
+## 📜 Projects
 
-- 🥭 [Cajuice](https://github.com/JoaoCussolim/Cajuice): A web game to draw pixel art on an **infinite** map with friends and the rest of the world! [Try it out!](https://cajuice.netlify.app/)
-- 🍀 [Lucky Journey](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system. [Try it out!](https://solartorio.web.app)
+- 🥭 [Cajuice](https://github.com/JoaoCussolim/Cajuice): A web game to draw pixel art on an **infinite** map with friends and the rest of the world! [Try it!](https://cajuice.netlify.app/)
+- 🍀 [Lucky Journey](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system. [Try it!](https://solartorio.web.app)
+- 😺 [Catsteroids A.I](https://github.com/RafaelBrasil1/Catsteroids-A.I): An artificial intelligence made to play Catsteroids, a game made by myself.[Try it!](rafaelbrasil1.github.io/Catsteroids-A.I/)
+- 🧩 [Image Changer Extension](https://github.com/RafaelBrasil1/ImageChangerExtension): A Google Chorme extension to change **ALL** your images.
 
 
 - Expect a lot more projects from now on!
 
-## 🌱 Currently Learning
+## 📖 Currently Learning
 
-Just like technology never stops advancing, I **never stop learning**. While I study what my school provides me, I also like to explore everything I can. Currently, I'm interested in artificial intelligence, especially generative models, and cloud computing platforms like Firebase, AWS, and Azure for developing secure database-driven applications. Also, I'm just waiting for the opportunity to start practicing Spring Boot! 🍃
+I am always trying to learn new things, specially when it comes to things I don't understand now. While I learn everything I can from my school, I also try to explore and get to know everything I can from external materials.
+I am also trying to learn more and more about artificial intelligence and virtual reality, which are topics I can't wait to learn.
 
-## 📫 How to Reach Me
+## ✉️ How to Reach Me
 
-You can reach out to me via email at [rafaelbr.ulbrich@gmail.com](mailto:rafaelbr.ulbrich@gmail.com)!
+This is my email adress:[rafaelbr.ulbrich@gmail.com](mailto:rafaelbr.ulbrich@gmail.com)!
 
-## ✨ Fun Facts
+## 🔮 Fun Facts
+- 🎮 I love playing all kind of games, specially **Souls-Like** games.
 
-- 🥷 I once practiced **Kung-Fu** when I was 5 years old.
+- 🥷 I practiced Kung-Fu for **7 years** before the pandemic came.
+
+- 👓 I'm a huge fan of [Grabalos](https://github.com/GabrielGrabalos) who taught me and helped me in this journey!
 
 ## 💕 Thanks!
 
-Thanks for your interest in me!
-Hope to see you again. 😊
+Thank You!
+I wish you a good day! 😊
