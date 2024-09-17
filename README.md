@@ -2,11 +2,11 @@
 
 ## 🤙 About Me
 
-- 🌈 I love being a developer and I always had, specially when it comes to creating games. <br>
+- ♥️ I love being a developer and I always had, specially when it comes to creating games. <br>
 
-- 🔗 I'm always curious and eager to learn new and challenging stuff! <br>
+- 🤔 I'm always curious and eager to learn new and challenging stuff! <br>
 
-- 😌 I am fascinated with technology and the fact that I'm learning how to be part of that makes me really happy!
+- 🌞 I am fascinated with technology and the fact that I'm learning how to be part of that makes me really happy!
 
 ## 💻 Technologies
 
