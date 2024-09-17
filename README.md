@@ -33,8 +33,8 @@
 
 ## 📜 Projects
 
-- 🥭 [Cajuice](https://github.com/JoaoCussolim/Cajuice): A web game to draw pixel art on an **infinite** map with friends and the rest of the world! [Try it!](https://cajuice.netlify.app/)
-- 🍀 [Lucky Journey](https://github.com/GabrielGrabalos/Solar-System-Website): A beautiful and interactive website to teach children about our solar system. [Try it!](https://solartorio.web.app)
+- 🥭 [Cajuice](https://github.com/JoaoCussolim/Cajuice): A website developed by me and my friends where you can play different games made on HTML5 canvas [Try it!](https://cajuice.netlify.app/)
+- 🍀 [Lucky Journey](https://github.com/GabrielGrabalos/Solar-System-Website): An open world RPG where you explore an infinite world and count on your **luck** to defeat your enemies [Try it!](https://solartorio.web.app)
 - 😺 [Catsteroids A.I](https://github.com/RafaelBrasil1/Catsteroids-A.I): An artificial intelligence made to play Catsteroids, a game made by myself.[Try it!](rafaelbrasil1.github.io/Catsteroids-A.I/)
 - 🧩 [Image Changer Extension](https://github.com/RafaelBrasil1/ImageChangerExtension): A Google Chorme extension to change **ALL** your images.
 
